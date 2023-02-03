@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32-C3-LuatOS-main"
+		},
+		{
+			"name": "Esp32C3-Arduino-Clock",
+			"path": "../ESP32-C3-LuatOS-main/Esp32C3-Arduino-Clock"
+		},
+		{
+			"name": "Esp32C3-Arduino-TCP-Video",
+			"path": "../LuatOS-C3-Video-Cast-main/Esp32C3-Arduino-TCP-Video"
+		},
+		{
+			"name": "esp32c3_lvgl_observer-main",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

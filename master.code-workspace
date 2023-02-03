@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/master"
+		},
+		{
+			"name": "esp32c3_lvgl_observer-main",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
