@@ -7,6 +7,8 @@
 通过WIFI传输数据
 主程序src目录下main.cpp中修改wifi用户名和密码连接wifi
 
+pio.zip 保存lvgl配置文件，解压后放到.pio文件夹下
+
 上位机程序在这个库 [esp32c3_observer](https://github.com/imshixin/esp32c3_observer)
 
 **注意：上位机程序需要使用管理员权限执行，否则获取不到cpu数据**
